@@ -10,10 +10,10 @@ We will create a GitHub issue for each presenter. Because each presenter's time 
 
 Dr. Richard Evans will introduce the program from 5:00 - 5:10pm. Then we will begin the presentations at 5:10pm. The order of presenters will be the following.
 
-| Order | Name         | GitHub handle |
-| :---: | ------------ | ------------- |
-| 1     | Yilun Dai    | @yilundai     |
-| 2     | Fangfang Wan | @Fangfangwan  |
+| Order | Name         | GitHub handle |     | Order | Name  | GitHub handle |
+| :---: | ------------ | ------------- | --- | :---: | ----- | --------------|
+| 1     | Yilun Dai    | @yilundai     |     |       |       |               |
+| 2     | Fangfang Wan | @Fangfangwan  |     |       |       |               |
 
 ## Suggestions for presenters and ground rules
 
