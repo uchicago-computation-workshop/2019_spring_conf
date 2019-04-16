@@ -12,8 +12,22 @@ Dr. Richard Evans will introduce the program from 5:00 - 5:10pm. Then we will be
 
 | Order | Name         | GitHub handle |     | Order | Name  | GitHub handle |
 | :---: | ------------ | ------------- | --- | :---: | ----- | --------------|
-| 1     | Yilun Dai    | @yilundai     |     |       |       |               |
-| 2     | Fangfang Wan | @Fangfangwan  |     |       |       |               |
+| 1     | Yilun Dai    | @yilundai     |     | 16    |       |               |
+| 2     | Fangfang Wan | @Fangfangwan  |     | 17    |       |               |
+| 3     |              |               |     | 18    |       |               |
+| 4     |              |               |     | 19    |       |               |
+| 5     |              |               |     | 20    |       |               |
+| 6     |              |               |     | 21    |       |               |
+| 7     |              |               |     | 22    |       |               |
+| 8     |              |               |     | 23    |       |               |
+| 9     |              |               |     | 24    |       |               |
+| 10    |              |               |     | 25    |       |               |
+| 11    |              |               |     | 26    |       |               |
+| 12    |              |               |     | 27    |       |               |
+| 13    |              |               |     | 28    |       |               |
+| 14    |              |               |     | 29    |       |               |
+| 15    |              |               |     | 30    |       |               |
+
 
 ## Suggestions for presenters and ground rules
 
