@@ -14,7 +14,7 @@ Dr. Richard Evans will introduce the program from 5:00 - 5:10pm. Then we will be
 | :---: | ------------ | ------------- | --- | :---: | ----- | --------------|
 | 1     | Yilun Dai    | @yilundai     |     | 16    |       |               |
 | 2     | Fangfang Wan | @Fangfangwan  |     | 17    |       |               |
-| 3     |              |               |     | 18    |       |               |
+| 3     | Jingwen Fan  | @jfan3        |     | 18    |       |               |
 | 4     |              |               |     | 19    |       |               |
 | 5     |              |               |     | 20    |       |               |
 | 6     |              |               |     | 21    |       |               |
@@ -26,7 +26,7 @@ Dr. Richard Evans will introduce the program from 5:00 - 5:10pm. Then we will be
 | 12    |              |               |     | 27    |       |               |
 | 13    |              |               |     | 28    |       |               |
 | 14    |              |               |     | 29    |       |               |
-| 15    |              |               |     | 30    |       |               |
+| 15    | Ari Boyarsky | @ariboyarsky  |     | 30    |       |               |
 
 
 ## Suggestions for presenters and ground rules
