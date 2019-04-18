@@ -10,23 +10,23 @@ We will create a GitHub issue for each presenter. Because each presenter's time 
 
 Dr. Richard Evans will introduce the program from 5:00 - 5:10pm. Then we will begin the presentations at 5:10pm. The order of presenters will be the following.
 
-| Order | Name         | GitHub handle |     | Order | Name  | GitHub handle |
-| :---: | ------------ | ------------- | --- | :---: | ----- | --------------|
-| 1     | Yilun Dai    | @yilundai     |     | 16    |       |               |
-| 2     | Fangfang Wan | @Fangfangwan  |     | 17    |       |               |
-| 3     | Jingwen Fan  | @jfan3        |     | 18    |       |               |
-| 4     |              |               |     | 19    |       |               |
-| 5     |              |               |     | 20    |       |               |
-| 6     |              |               |     | 21    |       |               |
-| 7     |              |               |     | 22    |       |               |
-| 8     |              |               |     | 23    |       |               |
-| 9     |              |               |     | 24    |       |               |
-| 10    |              |               |     | 25    |       |               |
-| 11    |              |               |     | 26    |       |               |
-| 12    |              |               |     | 27    |       |               |
-| 13    |              |               |     | 28    |       |               |
-| 14    |              |               |     | 29    |       |               |
-| 15    | Ari Boyarsky | @ariboyarsky  |     | 30    |       |               |
+| Order | Name            | GitHub handle |     | Order | Name                | GitHub handle |
+| :---: | --------------- | ----------------- | --- | :---: | ------------------- | --------------|
+| 1     | Yilun Dai       | @yilundai         |     | 16    | Ari Boyarsky     | @ariboyarsky |
+| 2     | Fangfang Wan    | @Fangfangwan      |     | 17    | Ruixue Li        | @ruixue-li      |
+| 3     | Jingwen Fan     | @jfan3            |     | 18    | Xi Chen          | @            |
+| 4     | Leoson Hoay     | @LeosonH          |     | 19    | Mengchen Shi     | @            |
+| 5     | Yangyang Dai    | @yyd007           |     | 20    | Flora Zhang      | @xiuyuanzhang |
+| 6     | Laurence Warner | @w4rner           |     | 21    | Joe Denby        | @jgdenby   |
+| 7     | Xiang Zhang     | @                 |     | 22    | Anhua Chen       | @ChenAnhua   |
+| 8     | Lerong Wang     | @                 |     | 23    | Jiang Wang       | @            |
+| 9     | Weiwei Zheng    | @ZhengErWei       |     | 24    | Andi Liao        | @liaoandi    |
+| 10    | Tyler Amos      | @tamos            |     | 25    | Ling Dai         | @dailing616  |
+| 11    | Kevin Sun       | @Sun-Kev          |     | 26    | Zunda Xu         | @zundaxu      |
+| 12    | Beth Bailey     | @bethbailey       |     | 27    | Ruxin Chen       | @RuxinChen   |
+| 13    | Xinyu Cao       | @PhilipCaoChicago |     | 28    | Cooper Nederhood | @CooperNederhood |
+| 14    | Shuting Chen    | @Shuting05        |     | 29    | Alexander Tyan   | @AlexanderTyan            |
+| 15    | Jie Heng        | @jheng18          |     | 30    |                  |     |
 
 
 ## Suggestions for presenters and ground rules
